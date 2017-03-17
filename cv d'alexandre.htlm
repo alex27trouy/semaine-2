@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>CV d'alexandre</title>
+    </head>
+
+    <body>
+      <header>
+        <h1>Alexandre Bosvin</h1>
+        <h2>Codeur Web</h2>
+      </header>
+      <main>
+        <h1>Formation</h1>
+        <ul>
+        <li>2017 formation de codeur web en cours à Bourges</li>
+        <li>2014 formation AFPA de technicien d'assistance informatique à Blois
+        </li>
+        <li>2010 BAC PRO Maintenance des équipements industriels à Bourges</li>
+        <li>2008 BEP Maintenance des équipements industriels à Bourges</li>
+      </ul>
+      <h2>Expériences professionnelles</h2>
+      <ul>
+        <li>2014 Stage dans l'entreprise NetStore à Bourges</li>
+        <li>2012/2013 Secrétaire d’accueil et infographiste à Alpha Distribution à Bourges</li>
+      </ul>
+    </main>
+    <footer>
+      <p>66 rue du domaine de la cure</p>
+      <p>18570 TROUY</p>
+      <p>06.98.54.57.75</p>
+      <p>alex22trouy5@gmail.com</p>
+      <p>Permis B avec véhicule</p>
+    </footer>
+
+
+    </body>
+</html>
